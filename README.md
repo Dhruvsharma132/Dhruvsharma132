@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Dhruvsharma132
+- 👀 I’m interested in Data Science
+- 🌱 I’m currently learning AI and ML
+- 💞️ I’m looking to collaborate on open source projects, statistical research involving data analyst.
+- 📫 How to reach me : sharmadhruv132@gmail.com
